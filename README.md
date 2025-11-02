@@ -131,14 +131,4 @@ Git • GitHub • Postman • VS Code
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60" />
 </p>
 
-<style>
-@keyframes pulse {
-  0% { box-shadow: 0 0 15px #8A2BE2; }
-  50% { box-shadow: 0 0 35px #00FFFF; }
-  100% { box-shadow: 0 0 15px #8A2BE2; }
-}
-@keyframes glow {
-  0% { filter: drop-shadow(0 0 10px #8A2BE2); }
-  100% { filter: drop-shadow(0 0 25px #FFD700); }
-}
-</style>
+ 
