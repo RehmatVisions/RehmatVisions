@@ -1,22 +1,26 @@
- <!-- 🌟 REHMAT ALI GITHUB PROFILE  -->
+ <!-- 🌟 REHMAT ALI GITHUB PROFILE -->
 
 <h1 align="center">
-  🚀 Rehmat Ali – Full Stack MERN Developer
+  🚀 <span style="background: linear-gradient(90deg,#8A2BE2,#00FFFF,#FFD700); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: glow 5s infinite alternate;">Rehmat Ali</span> – Full Stack MERN Developer
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Frontend+Animation+%26+Backend+Integration;Building+Clean,+Modern+%26+Scalable+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Frontend+Animation+%26+Backend+Integration;Building+Modern,+Scalable,+and+Fast+Web+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="300"/>
+  <img src="https://rehmat-ali.vercel.app/assets/rehmat-fljtcwfb.jpeg" width="180" height="180" style="border-radius:50%; box-shadow: 0px 0px 25px #8A2BE2; animation: pulse 3s infinite;" alt="Rehmat Ali Profile Image"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer Animation"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me  
-🔥 Passionate **Full Stack MERN Developer** focused on **modern UI/UX, performance, and clean animations.**  
-I enjoy transforming creative ideas into **real-world digital experiences** using React.js, Node.js, Express.js, and MongoDB.  
+🔥 Passionate **Full Stack MERN Developer** focused on **modern UI/UX, performance, and seamless animations.**  
+I turn ideas into **beautiful and functional digital experiences** using React.js, Node.js, Express.js, and MongoDB.  
 
 🌐 **Portfolio:** [rehmat-ali.vercel.app](https://rehmat-ali.vercel.app)  
 💼 **Fiverr:** [fiverr.com/s/1q9a5ke](https://www.fiverr.com/s/1q9a5ke)  
@@ -49,7 +53,7 @@ Git • GitHub • Postman • VS Code
 - 🎖️ *Certificate of Excellence & Completion.*  
 
 **🏫 NAVTTC – Advanced Web Development (08/2024 – Present)**  
-- Government-funded professional training for MERN Stack.  
+- Government-funded professional MERN training.  
 - 🎖️ *Certificate Pending.*
 
 ---
@@ -58,32 +62,31 @@ Git • GitHub • Postman • VS Code
 
 | Project | Description | Live Demo |
 |----------|--------------|-----------|
-| 🧠 **Advanced Notes App (MERN)** | Authentication, CRUD, animated UI. Built with React.js, Node.js, Express.js, MongoDB, JWT. | [Live Site](https://rehmat-ali.vercel.app/#projects) |
-| 💼 **Portfolio Website (React.js + Tailwind CSS)** | Animated, responsive, and AI chatbot integrated portfolio. | [Portfolio](https://rehmat-ali.vercel.app/) |
-| 🏫 **Eduisty Clone** | Educational platform clone with clean, modular React structure. | [Live Site](https://comfy-cendol-b1f477.netlify.app/) |
-| 💊 **Medication Tracker Website** | Full-stack health app for daily medicine tracking. | [Live Site](#) |
-| 🧩 **CodeCelix Backend (Company Project)** | Backend integration & logic development for CodeCelix Platform. | [Private/Ongoing] |
-| 🌤 **Weather App** | Real-time weather with animated weather cards using WeatherAPI. | [Live Site](https://rehmatvisions.github.io/weather_app/) |
-| 🍔 **Food Website** | Modern food platform with Framer Motion animations. | [Live Site](https://superlative-quokka-75b99c.netlify.app/) |
-| 🎬 **StreamLabs** | Sleek video streaming interface built in React.js + Tailwind. | [Live Site](https://sprightly-kashata-a0ade8.netlify.app/) |
-| 🧭 **GotTo Platform** | Advanced UI project for dynamic navigation & smooth UX. | [Live Site](https://profound-bavarois-7ff36a.netlify.app/) |
+| 🧠 **Advanced Notes App (MERN)** | Auth, CRUD, animated UI (React.js, Node.js, Express.js, MongoDB, JWT). | [Live](https://rehmat-ali.vercel.app/#projects) |
+| 💼 **Portfolio Website** | Animated, responsive, and AI chatbot integrated portfolio. | [Live](https://rehmat-ali.vercel.app/) |
+| 🏫 **Eduisty Clone** | Educational platform clone with modular React structure. | [Live](https://comfy-cendol-b1f477.netlify.app/) |
+| 💊 **Medication Tracker** | Full-stack health app for daily medicine tracking. | [Live](#) |
+| 🧩 **CodeCelix Backend** | Backend logic & integration for CodeCelix Platform. | [Private] |
+| 🌤 **Weather App** | Real-time weather cards using WeatherAPI + Framer Motion. | [Live](https://rehmatvisions.github.io/weather_app/) |
+| 🍔 **Food Website** | Modern food UI with Framer Motion animations. | [Live](https://superlative-quokka-75b99c.netlify.app/) |
+| 🎬 **StreamLabs** | Sleek video streaming interface (React + Tailwind). | [Live](https://sprightly-kashata-a0ade8.netlify.app/) |
+| 🧭 **GotTo Platform** | Advanced navigation + smooth UX design. | [Live](https://profound-bavarois-7ff36a.netlify.app/) |
 
 ---
 
 ### 🎓 Education  
 🎓 **Bachelor of Science in Computer Science**  
 📍 *Lahore Leads University (10/2023 – Present)*  
-Lahore, Pakistan  
 
 ---
 
 ### 🗣️ Languages  
-- 🇵🇰 **Urdu:** Native (Excellent proficiency)  
-- 🇬🇧 **English:** Professional proficiency  
+- 🇵🇰 **Urdu:** Native  
+- 🇬🇧 **English:** Professional  
 
 ---
 
-### ⚡ My Stack in Action
+### ⚡ My Stack in Action  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,html,css,github,postman,vscode" />
 </p>
@@ -103,7 +106,7 @@ Lahore, Pakistan
 ---
 
 ### 🌈 Vision  
-> 💡 *"To craft digital experiences where design meets performance — blending frontend creativity with backend power."*  
+> 💡 *“To craft digital experiences where design meets performance — blending frontend creativity with backend power.”*  
 
 ---
 
@@ -127,3 +130,15 @@ Lahore, Pakistan
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60" />
 </p>
+
+<style>
+@keyframes pulse {
+  0% { box-shadow: 0 0 15px #8A2BE2; }
+  50% { box-shadow: 0 0 35px #00FFFF; }
+  100% { box-shadow: 0 0 15px #8A2BE2; }
+}
+@keyframes glow {
+  0% { filter: drop-shadow(0 0 10px #8A2BE2); }
+  100% { filter: drop-shadow(0 0 25px #FFD700); }
+}
+</style>
